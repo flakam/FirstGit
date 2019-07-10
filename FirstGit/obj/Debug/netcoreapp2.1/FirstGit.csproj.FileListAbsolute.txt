@@ -1,0 +1,11 @@
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\bin\Debug\netcoreapp2.1\FirstGit.deps.json
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\bin\Debug\netcoreapp2.1\FirstGit.runtimeconfig.json
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\bin\Debug\netcoreapp2.1\FirstGit.runtimeconfig.dev.json
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\bin\Debug\netcoreapp2.1\FirstGit.dll
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\bin\Debug\netcoreapp2.1\FirstGit.pdb
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\obj\Debug\netcoreapp2.1\FirstGit.csprojAssemblyReference.cache
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\obj\Debug\netcoreapp2.1\FirstGit.csproj.CoreCompileInputs.cache
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\obj\Debug\netcoreapp2.1\FirstGit.AssemblyInfoInputs.cache
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\obj\Debug\netcoreapp2.1\FirstGit.AssemblyInfo.cs
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\obj\Debug\netcoreapp2.1\FirstGit.dll
+C:\Users\Flaka\source\repos\FirstGit\FirstGit\obj\Debug\netcoreapp2.1\FirstGit.pdb
